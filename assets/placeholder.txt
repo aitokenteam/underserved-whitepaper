@@ -1,0 +1,10 @@
+This directory is for storing images, logos, and other assets for the whitepaper.
+
+You can add:
+- Company logos
+- Screenshots of the platform
+- Infographics
+- Charts and diagrams
+- Any other visual content
+
+The main whitepaper will automatically reference these assets when they're added.

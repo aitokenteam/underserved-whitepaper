@@ -106,6 +106,19 @@ body {
     margin: 0 auto;
 }
 
+.coming-soon-content {
+    max-width: 600px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.coming-soon-content p {
+    font-size: 1.2rem;
+    color: var(--text-secondary);
+    margin-bottom: 1rem;
+    line-height: 1.6;
+}
+
 .stat {
     text-align: center;
     padding: 2rem;
